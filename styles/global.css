@@ -1,0 +1,22 @@
+/* ./styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-01 {
+  background-image: linear-gradient(
+    to right bottom,
+    #d7ebf8,
+    #cff0fb,
+    #c8f5f9,
+    #c6faf4,
+    #c9fdea,
+    #cafee4,
+    #ceffde,
+    #d2ffd7,
+    #cdffd6,
+    #c8ffd5,
+    #c2ffd4,
+    #bcffd4
+  );
+}
